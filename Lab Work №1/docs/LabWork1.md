@@ -27,7 +27,7 @@
 
 ## Диаграмма вариантов использования 
 
-![image](https://github.com/LRzbt/SoftW-Architecture/assets/127854800/2050604f-77ef-4aa8-bb32-db4d8e1d118d) 
+![image](https://github.com/LRzbt/SoftW-Architecture/assets/127854800/9e63196f-3018-492b-9690-f212dc49645a)
 
 
 ## Перечень сделанных предположений 
