@@ -26,9 +26,10 @@ API Server - контейнер, отвечающий за агрегацию и
 
 Диаграмма компонентов № 1 - Клиентское веб-приложение 
 
-![image](https://github.com/LRzbt/SoftW-Architecture/assets/127854800/8ef437a5-e441-472b-a06c-c81fb093ece2)
+![image](https://github.com/LRzbt/SoftW-Architecture/assets/127854800/16027fa6-b004-45f3-9699-62c6635b3742)
 
 Диаграмма компонентов № 2 - API Server 
 
-![image](https://github.com/LRzbt/SoftW-Architecture/assets/127854800/b9dfb04e-d6da-46da-97d6-6a350396148c)
+![image](https://github.com/LRzbt/SoftW-Architecture/assets/127854800/12e94e1c-6dbd-4bd8-a3e4-46a848b9de75)
+
 
